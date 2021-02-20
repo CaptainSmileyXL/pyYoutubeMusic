@@ -38,6 +38,7 @@ Usage:
 ------
 ```
 python3 pyYoutubeMusic.py [options]
+-h show usage
 -p <is this a playlist 0 | 1>
 -d <directory for music files>
 -u <url for youtube video/playlist>
