@@ -37,6 +37,9 @@ ffmpeg (http://www.ffmpeg.org)
 Usage:
 ------
 ```
+I recommend you make the script executable (chmod 755 pyYoutubeMusic.py) then you can:  
+./pyYoutubeMusic.py [options]
+OTHERWISE
 python3 pyYoutubeMusic.py [options]
 -h show usage
 -p <is this a playlist 0 | 1>
